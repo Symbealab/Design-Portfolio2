@@ -1,6 +1,6 @@
 # Design-Portfolio2 — Order & Chaos
 
-**🌐 Web ページ: https://york-14.github.io/Design-Portfolio2/**
+**🌐 Web ページ: https://symbealab.github.io/Design-Portfolio2/**
 
 数理モデルから生成する針葉樹をキービジュアルにしたデザインポートフォリオ。
 ビルド不要の静的サイトです（`index.html` をそのまま GitHub Pages で公開できます）。
@@ -14,7 +14,7 @@ assets/js/main.js     キービジュアル（森）・作品サムネイル・�
 
 ## キービジュアルの数理モデル
 
-[Generative Flower — Order × Chaos](https://github.com/York-14/Generative-flower-Order-Chaos) の
+[Generative Flower — Order × Chaos](https://github.com/Symbealab/Generative-flower-Order-Chaos) の
 対称カオス写像は、原点まわりに *n* 回回転対称な **放射状** の模様を描きます。
 横から見ると平たい円盤にしかならず「下から上へ成長する木」は表せないため、
 成長の骨格は新しく組み直し、元のモデルからは次の 3 つを引き継いでいます。
@@ -120,8 +120,8 @@ dL/dt = (BPM / 100)^1.6 · (1 + 0.55·beat)
 
 ## コンテンツ
 
-- **Works**：York-14 の公開リポジトリから 6 作品（過去のポートフォリオは除く）。サムネイルは各作品の数理モデル（対称カオス写像・ロジスティック写像の分岐図・二重振り子・黄金角の葉序など）をサイトの配色でその場で描いたものです。
-- **About**：プロフィールリポジトリ [York-14/York-14](https://github.com/York-14/York-14) の内容から構成。
+- **Works**：Symbealab の公開リポジトリから 6 作品（過去のポートフォリオは除く）。サムネイルは各作品の数理モデル（対称カオス写像・ロジスティック写像の分岐図・二重振り子・黄金角の葉序など）をサイトの配色でその場で描いたものです。
+- **About**：プロフィールリポジトリ [Symbealab/York-14](https://github.com/Symbealab/York-14) の内容から構成。
 
 ## 公開（GitHub Pages）
 
